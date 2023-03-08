@@ -1,6 +1,1 @@
-
-This text was added to the file.
-This text was added to the file.
-This text was added to the file.
-# This text was added by a Python script!
-# This text was added by a Python script!
+Hello, world!
